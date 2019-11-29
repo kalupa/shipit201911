@@ -1,0 +1,14 @@
+{
+  "name": "shipit-xmas-lights",
+  "version": "0.0.1",
+  "description": "Some fun messing with applights in javascript land",
+  "main": "dist/index.js",
+  "scripts": {
+    "test": "jest"
+  },
+  "author": "P Kalupnieks <nospam@example.com>",
+  "license": "MIT",
+  "dependencies": {
+    "applights-sdk": "^1.0.1"
+  }
+}
